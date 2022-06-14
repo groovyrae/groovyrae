@@ -1,6 +1,6 @@
 👋🏾 Hi there 
-✨ he/they 
-🌱 I'm currently learning to build websites
+✨ any pronouns
+🌱 I'm currently learning python
 <!--
 **groovyrae/groovyrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
