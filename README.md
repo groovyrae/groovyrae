@@ -2,8 +2,7 @@
 
 
  <p> ✨ I'm a new programmer </p>
- <p> 🔮 Any pronouns
- <p> 👀 I enjoy reading and music </p>
+ <p> 🔮 she/her
  <p> 🌱 I'm currently learning Java </p>
  <p> 🎉 I don't know how to use this website well :D </p>
 
