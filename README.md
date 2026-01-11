@@ -1,10 +1,8 @@
-<h1> Ahoy 🌚 </h1>
+<h1> Hi! 🌚 </h1>
 
 
- <p> ✨ I'm a new programmer </p>
  <p> 🔮 she/her
- <p> 🌱 I'm currently learning Java </p>
- <p> 🎉 I don't know how to use this website well :D </p>
+
 
  
  
