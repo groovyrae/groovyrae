@@ -1,6 +1,16 @@
-<img width="1280" height="400" alt="Hi! I’m Rae (1280 x 400 px)" src="https://github.com/user-attachments/assets/23d18c77-e1b6-4943-8fe0-57566d951572" />
 
-## Hi there 👋
+## Hi 💖
+I'm Raégen! I am a computer science student at USC interested in the intersection between astrophysics and software engineering. I love learning new technologies and meeting new people at hackathons.
+
+## I'm Currently Learning 🌈
+- CSCI-201 Principles of Software Development
+* CSCI-356 Introduction to Computer Systems
++ Astrophysics though lab work
+
+## Let's Connect 😛 
+If you're looking for a steady hackathon partner hit me up on...
+
+
 
 <!--
 **groovyrae/groovyrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
