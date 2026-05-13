@@ -1,12 +1,12 @@
 
-## 💖 Hi
+## Hi! 💖
 I'm Raégen! I am a computer science student at USC interested in the intersection between astrophysics and software engineering. I love learning new technologies and meeting new people at hackathons.
 
 ## 🌈 I'm Currently Learning
 - CSCI-201 Principles of Software Development
 * CSCI-356 Introduction to Computer Systems
 
-## 😛 Let's Connect
+## Let's Connect 😛
 If you're looking for a steady hackathon partner hit me up on...
 
 
