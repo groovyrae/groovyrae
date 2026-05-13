@@ -8,15 +8,9 @@ I'm Raégen! I am a computer science student at USC interested in the intersecti
 
 ## Let's Connect 😛
 If you're looking for a steady hackathon partner hit me up!
-[![My Skills](https://skillicons.dev/icons?i=discord,gmail,linkedin)](https://skillicons.dev)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <!-- <img src="https://skillicons.dev/icons?i=discord,gmail,linkedin" /> -->
-  </a>
-</p>
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raegenellis/)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/809319028886863903)
-
 
 
 <!--
