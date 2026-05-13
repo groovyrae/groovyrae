@@ -15,7 +15,7 @@ If you're looking for a steady hackathon partner hit me up!
   </a>
 </p>
 
-(https://skillicons.dev/icons?i=discord)[https://discord.com/users/809319028886863903]
+[![My Skills](https://skillicons.dev/icons?i=discord)][https://discord.com/users/809319028886863903]
 
 
 
