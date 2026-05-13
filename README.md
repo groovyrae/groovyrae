@@ -1,4 +1,4 @@
-<img width="1280" height="500" alt="Hi! I’m Rae" src="https://github.com/user-attachments/assets/51acdc38-987c-4c02-a18d-cd20e10f1c74" />
+<img width="1280" height="400" alt="Hi! I’m Rae" src="https://github.com/user-attachments/assets/51acdc38-987c-4c02-a18d-cd20e10f1c74" />
 ## Hi there 👋
 
 <!--
