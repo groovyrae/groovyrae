@@ -1,4 +1,4 @@
-<img width="1280" height="300" alt="Hi! I’m Rae (1280 x 400 px)" src="https://github.com/user-attachments/assets/9b8439dc-7c21-4cb8-97f3-546ed113ee59" />
+<img width="1280" height="300" alt="Hi! I’m Rae (1280 x 400 px) (1)" src="https://github.com/user-attachments/assets/95d48bd3-5626-4953-b547-089dc618de5c" />
 
 ## Hi! 💖
 I'm Raégen! I am a computer science student at USC interested in the intersection between astrophysics and software engineering. I love learning new technologies and meeting new people at hackathons.
